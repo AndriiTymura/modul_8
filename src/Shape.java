@@ -1,3 +1,3 @@
 public abstract class Shape {
-    public abstract String nameShape ();
+    public abstract String nameShape();
 }
